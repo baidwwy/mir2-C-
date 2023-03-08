@@ -1,3 +1,23 @@
+1.C# 传奇源码相关网页地址
+
+资源博客 https://blog.csdn.net/y13156556538/article/details/56279662
+
+国外官网： http://www.acem2.com/chronicles.html
+源码版本发布： https://github.com/Suprcode/mir2/releases
+源码地址： https://github.com/Suprcode/mir2
+客户端地址： http://mirfiles.co.uk/mir2/cmir/patch/
+服务端地址： http://legendofmir.uk/mirfiles/Server.zip
+ 
+服务端地址（和上面一样但需要注册账户）： http://www.lomcn.org/forum/showthread.php?92007-Full-Crystal-Files-Download-and-Guide
+ 
+2.传递地图资源解析
+ 
+热血传奇资源文件wzl、wzx解析 https://blog.csdn.net/aqtata/article/details/86711352
+热血传奇之资源文件与地图的读取分析  https://blog.csdn.net/qq_26413219/article/details/72123959
+ 
+3.寻路算法
+https://github.com/a592955699/Jm.Core
+
 ## The Legend of Mir 2
 The Legend of Mir 2 is a sprite-based isometric three dimensional massively multiplayer online role-playing game. Players have the option of playing different professions. Taoist, healers who use magical abilities to summon pets to assist in battle, poison targets and heal allies. Warriors, who have the highest defense and attack attributes of all classes. Wizards depend on magic and can kill multiple monsters with ease using spells. Assassins have taken over as the primary melee damage dealing class but have much weaker defense attributes than warriors. Archers are a class of great accuracy and strength, using their powerful skills with bows to deal extraordinary damage from range.
 
